@@ -46,7 +46,7 @@ Soy estudiante de **Economía** con una fuerte orientación hacia el **análisis
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [para tú](https://github.com/HuriOrdaz/paratu) | Jardín interactivo romántico — flores que florecen con el cursor | HTML · CSS · JS |
-| [Programación Lineal](https://github.com/HuriOrdaz/programacionlineal) | Herramienta educativa para resolver problemas de programación lineal | HTML · CSS · JS |
+| [Simplex Optimizer](https://huriordaz.github.io/simplex/) | Solver interactivo de programación lineal: métodos Simplex, Dual y Primal-Dual con gráfica 2D | HTML · CSS · JS |
 
 ---
 
